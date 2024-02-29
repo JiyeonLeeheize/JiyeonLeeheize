@@ -17,7 +17,11 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25" height="25" /> My Page
 <p align="left">
 <a href="https://instagram.com/dev_heize" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_heize" height="30" width="40" /></a>
+<a href="https://velog.io/@5mito2/posts"><img align="center" src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+
 </p>
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heize-jiyean)](https://github.com/anuraghazra/github-readme-stats)
