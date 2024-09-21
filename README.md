@@ -12,7 +12,8 @@
 ##### 　　• 2024 서비스 기획 부트캠프 (24년 12월 ~ 2월)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Sports Medal" width="25" height="25" /> Contest
-##### 　　• 2022 성신여자대학교 소프트웨어 경진대회 은상
+##### 　　• 2022 성신여자대학교 소프트웨어 경진대회 은상 - 모바일 앱 SHOWBOOK
+##### 　　• 2024 성신여자대학교 소프트웨어 경진대회 동상 - 웹 [AI 감정 분석 다이어리] COMMA
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25" height="25" /> My Page
 <p align="left">
