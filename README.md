@@ -32,6 +32,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=writemumu)](https://solved.ac/writemumu/)
 
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/5mito2?theme=dark&posts=3)
+
 
 
 <!--
