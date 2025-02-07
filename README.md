@@ -10,6 +10,7 @@
 ##### 　　• 컴퓨터공학과 과동아리 init 3기 (22년~)
 ##### 　　• 한국대학생경제학회 쿠세아 23-2학기 활동
 ##### 　　• 2024 서비스 기획 부트캠프 (24년 12월 ~ 2월)
+##### 　　• 2024 개발연합동아리 UMC 7기
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Sports Medal" width="25" height="25" /> Contest
 ##### 　　• 2022 성신여자대학교 소프트웨어 경진대회 은상 - 모바일 앱 SHOWBOOK
