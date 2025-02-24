@@ -1,6 +1,19 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&section=header&text=hello%20world!&fontSize=20&animation=fadeIn)-->
 
+<div align="center">
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JiyeonLeeheize&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/JiyeonLeeheize?background=true"
+  width="600"
+  height="300"
+/>
+</a>
+
+</div>
+
+
 <br/>
 
 ## Introduce 📜
